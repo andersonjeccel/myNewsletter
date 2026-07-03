@@ -9,6 +9,7 @@ This project was built to help devs and non-devs create awesome newsletters easi
 The app is designed in a way that allows you to create your newsletter by only filling the needed input fields. You can choose a Pre Created Layout to insert into the Current Empty Newsletter, which will show a preview right bellow the inputs form. Once you are satisfied with your brand new newsletter, just hit the Build button and it will be downloaded. 
 
 The only thing you will need to do is create a layout as a Component, and add it to a layout data file, so you can later on, add that personalized component to the newsletter document. It will need a few configuration, but once you have it, you will be able to create lots of newsletters based on your layout components, fast and easy.
+- [Mautic](https://www.mautic.org) - Open-source email marketing automation platform for newsletters, segmentation, and campaign workflows.
 
 
 ## Installing :construction:
